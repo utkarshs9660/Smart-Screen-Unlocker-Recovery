@@ -30,7 +30,14 @@ By injecting raw kernel-level touch gestures via an authorized ADB (Android Debu
 * **✅ Deep Kernel Verification:** Interrogates the Android OS (`dumpsys window` & `dumpsys keyguard`) to mathematically verify a successful unlock without relying on visual screen feedback.
 
 ---
+## 📸 Interface & Execution Preview
 
+| 🎛️ Live Interactive Drawer | 📊 Deep Telemetry & Execution Log |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/alisakkaf/Smart-Screen-Unlocker-Recovery/main/images/Unlock_Screen1.png" width="450" alt="Unlock Screen Custom Matrix"> | <img src="https://raw.githubusercontent.com/alisakkaf/Smart-Screen-Unlocker-Recovery/main/images/Unlock_Screen2.png" width="450" alt="Engine Execution and Verification"> |
+| <img src="https://raw.githubusercontent.com/alisakkaf/Smart-Screen-Unlocker-Recovery/main/images/Unlock_Screen3.png.png" width="450" alt="Live Hardware Touch Inference"> | <img src="https://raw.githubusercontent.com/alisakkaf/Smart-Screen-Unlocker-Recovery/main/images/ADB_Screen_Lock.png" width="450" alt="Device Connection & Handshake"> |
+
+---
 ## ⚙️ The 6-Engine Multi-Attack Strategy
 
 To account for fragmentation across Android OEMs, DPI scaling, and custom UIs, this tool utilizes a sequential cascade of mathematical engines. If one fails, the script dynamically adjusts its geometry and fires the next!
